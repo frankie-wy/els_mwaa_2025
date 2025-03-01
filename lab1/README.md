@@ -1,4 +1,4 @@
-# LAB-1: Requirement Install Issue
+# Requirement Install Issue
 
 ## Follow the steps below to resolve a Python package dependency conflict in the lab environment
 
