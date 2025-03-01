@@ -1,4 +1,4 @@
-# els_mwaa_2025
+# ELS MWAA 2025
 
 ## Please follow below steps for preparing your MWAA local runner environment
 
