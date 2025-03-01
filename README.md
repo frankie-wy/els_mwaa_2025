@@ -37,8 +37,8 @@ ssh -i key-pair.pem ec2-user@ec2-x-x-x-x.compute-1.amazonaws.com
 Verify that the ec2-user can run Docker commands without using sudo
 
 ```shell script
-$ docker ps
-$ docker compose version
+docker ps
+docker compose version
 ```
 Clone mwaa-local-runner project from github
 
@@ -49,14 +49,14 @@ git clone -b v2.10.3 https://github.com/aws/aws-mwaa-local-runner.git
 Build docker image
 
 ```shell script
-$ cd aws-mwaa-local-runner/
-$ ./mwaa-local-env build-image (around 5 minutes)
-$ docker images
+cd aws-mwaa-local-runner/
+./mwaa-local-env build-image (around 5 minutes)
+docker images
 ```
 Start mwaa local runner environment
 
 ```shell script
-$ ./mwaa-local-env start
+./mwaa-local-env start
 ```
 
 Open Airflow UI
