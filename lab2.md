@@ -70,6 +70,8 @@ cp els_lab2_dag.py aws-mwaa-local-runner/dags/
 
 Check Airflow UI (wait approximately 5 minutes for DAG file processing), you may encounter the following error:
 
+![](lab2_DAG_Import_Errors.png)
+
 ```log
 Broken DAG: [/usr/local/airflow/dags/lth_lab2_dag.py]
 Traceback (most recent call last):
@@ -78,6 +80,7 @@ Traceback (most recent call last):
     from airflow.providers.apache.spark.operators.spark_jdbc import SparkJDBCOperator
 ModuleNotFoundError: No module named 'airflow.providers.apache'
 ```
+
 
 ### Questions
 
