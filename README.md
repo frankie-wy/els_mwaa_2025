@@ -65,4 +65,4 @@ Open Airflow UI
 - Username: admin
 - Password: test
 
-
+![](https://github.com/frankie-wy/els_mwaa_2025/blob/main/Airflow_UI.png)
