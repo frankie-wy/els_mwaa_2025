@@ -2,7 +2,7 @@
 
 ### Sceniaro
 
-The DAG ```lth_lab3_etl_dag``` consists of four tasks that have been running successfully for a long time. However, on 2025-02-27 at 02:25:00 UTC, the transform task failed during this DAG execution.
+The DAG ```lth_lab3_etl_dag``` consists of four tasks that have been running successfully for a long time. However, on 2025-02-27 at 02:25:00 UTC, the **transform** task failed during this DAG execution.
 
 
 
