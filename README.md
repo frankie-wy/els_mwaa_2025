@@ -50,7 +50,8 @@ Build docker image
 
 ```shell script
 cd aws-mwaa-local-runner/
-./mwaa-local-env build-image (around 5 minutes)
+# around 5 minutes for buiding image
+./mwaa-local-env build-image
 docker images
 ```
 Start mwaa local runner environment
