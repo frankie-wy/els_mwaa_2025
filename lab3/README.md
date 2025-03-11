@@ -13,5 +13,5 @@ Please analyze the attached log files (els_lab3_logs.zip), which include worker,
 In your response, please provide:
 
 - The root cause of the failure
-- Your analysis of the situation
 - A step-by-step description of your troubleshooting approach
+- How can we prevent that Airflow task failure issue in the future?
