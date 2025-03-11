@@ -39,9 +39,7 @@ Collecting pyspark==3.5.3
   Preparing metadata (setup.py) ... done
 ERROR: Cannot install apache-airflow-providers-mysql==6.0.0 because these package versions have conflicting dependencies.
 
-The conflict is caused by:
-    The user requested apache-airflow-providers-mysql==6.0.0
-    The user requested (constraint) apache-airflow-providers-mysql==5.7.3
+...
 
 To fix this you could try to:
 1. loosen the range of package versions you've specified
