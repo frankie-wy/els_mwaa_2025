@@ -2,7 +2,7 @@
 
 ## Prerequisite
 
-### Create a VPC
+### 1. Create a VPC
 - 2 public subnets
 - 2 private subnets
 - NAT gateways
@@ -10,7 +10,7 @@
 ![](https://github.com/frankie-wy/els_mwaa_2025/blob/main/createVPC/CreateVPC-1.png)
 ![](https://github.com/frankie-wy/els_mwaa_2025/blob/main/createVPC/CreateVPC-2.png)
 
-### Please follow below steps for preparing your MWAA local runner environment
+### 2. Please follow below steps for preparing your MWAA local runner environment
 
 Launch Amazon Linux 2023 instance
 
