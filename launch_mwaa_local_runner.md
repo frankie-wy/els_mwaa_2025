@@ -3,8 +3,8 @@
 #### 1. Launch Amazon Linux 2023 instance
 
 - Architecture: 64-bit (x86)
-- Instance type: t2.xlarge
-- Storage: 100 GiB (gp3)
+- Instance type: t2.micro
+- Storage: 20 GiB (gp3)
 
 #### 2. Connect to your Linux instance using an SSH client
 
